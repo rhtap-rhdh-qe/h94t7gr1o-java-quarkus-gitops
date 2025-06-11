@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: h94t7gr1o-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/h94t7gr1o-java-quarkus
